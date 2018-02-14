@@ -1,0 +1,31 @@
+.file-title {
+    font-size: 18px;
+}
+
+ul#files li {
+    list-style: none;
+}
+
+.file {
+    padding-bottom: 20px;
+}
+
+.file-modified {
+    color: #5F5F5F;
+}
+
+.file-links a {
+    margin-right: 10px;
+}
+
+.alert {
+    padding: 20px;
+}
+
+.alert-success {
+    background-color: #61ec58;
+}
+
+.alert-danger {
+    background-color: #ff5858;
+}
